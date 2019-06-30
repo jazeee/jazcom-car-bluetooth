@@ -110,7 +110,7 @@ void loop() {
 		}
 	  display.display();
 	  if (length == 10) {
-	  	delay(500);
+	  	delay(25);
 	  }
 	}
 }
